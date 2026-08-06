@@ -1,0 +1,26 @@
+technology_id,name,description
+T001,Machine Learning,Machine Learning
+T002,Deep Learning,Deep Learning
+T003,Blockchain,Blockchain
+T004,Quantum Computing,Quantum Computing
+T005,Computer Vision,Computer Vision
+T006,Natural Language Processing,Natural Language Processing
+T007,Cloud Computing,Cloud Computing
+T008,Edge AI,Edge AI
+T009,Cyber Security,Cyber Security
+T010,IoT,IoT
+T011,Robotics,Robotics
+T012,Big Data,Big Data
+T013,Data Mining,Data Mining
+T014,Autonomous Vehicles,Autonomous Vehicles
+T015,5G Networks,5G Networks
+T016,Digital Twin,Digital Twin
+T017,Augmented Reality,Augmented Reality
+T018,Virtual Reality,Virtual Reality
+T019,Healthcare AI,Healthcare AI
+T020,Bioinformatics,Bioinformatics
+T021,Speech Recognition,Speech Recognition
+T022,Generative AI,Generative AI
+T023,Reinforcement Learning,Reinforcement Learning
+T024,Predictive Analytics,Predictive Analytics
+T025,Green Computing,Green Computing
